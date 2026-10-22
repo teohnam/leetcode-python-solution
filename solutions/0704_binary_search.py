@@ -11,6 +11,7 @@ class Solution(object):
             if left > right:
                 return -1
 
+            # Target the search range
             mid = (left + right) // 2
 
             if nums[mid] == target:
