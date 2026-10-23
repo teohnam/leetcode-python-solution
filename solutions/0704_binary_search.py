@@ -16,7 +16,7 @@ class Solution(object):
 
             if nums[mid] == target:
                 return mid
-            if target > nums[mid]:
+            if nums[mid] < target:
                 return binary_search(mid + 1, right)
             return binary_search(left, mid - 1)
 
