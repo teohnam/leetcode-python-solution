@@ -11,14 +11,17 @@ and notes on what I learn along the way.
 | 1 | [Two Sum](./solutions/0001_two_sum.py) | Easy | Array |
 | 7 | [Reverse Integer](./solutions/0007_reverse_integer.py) | Medium | Math |
 | 9 | [Palindrome Number](./solutions/0009_palindrome_number.py) | Easy | Math |
+| 13 | [Roman to Integer](./solutions/0013_roman_to_integer.py) | Easy | Hash Table, Math, String |
 | 20 | [Valid Parentheses](./solutions/0020_valid_parenthese.py) | Easy | String, Stack |
 | 28 | [Find the Index of the First Occurrence in a String](./solutions/0028_find_the_index_of_the_first_occerrence_in_a_string.py) | Easy | Two Pointers, String Matching |
 | 34 | [Find First and Last Position of Element in Sorted Array](./solutions/0034_find_first_and_last_position_of_element_in_sorted_array.py) | Medium | Array, Binary Search |
 | 35 | [Search Insert Position](./solutions/0035_search_insert_position.py) | Easy | Array, Binary Search |
 | 49 | [Group Anagrams](./solutions/0049.group_anagrams.py) | Medium | Array, Hash Table, String, Sorting |
+| 53 | [Maximum Subarray](./solutions/0053_maximum_subarray.py) | Medium | Array, Divide and Conquer, Dynamic Programming |
 | 67 | [Add Binary](./solutions/0067_add_binary.py) | Easy | Math, String, Bit Manipulation, Simulation |
 | 88 | [Merge Sorted Array](./solutions/0088_merge_sorted_array.py) | Easy | Array, Two Pointers, Sorting |
 | 104 | [Maximum Depth of Binary Tree](./solutions/0104_maxium_depth_of_binary_tree.py) | Easy | Tree, Depth-First Search, Binary Tree |
+| 118 | [Pascal's Triangle](./solutions/0118_pascals_triangle.py) | Easy | Array, Dynamic Programming |
 | 125 | [Valid Palindrome](./solutions/0125_valid_palindrome.py) | Easy | Two Pointers, String |
 | 136 | [Single Number](./solutions/0136_single_number.py) | Easy | Array, Bit Manipulation |
 | 191 | [Number of 1 Bits](./solutions/0191_number_of_1_bits.py) | Easy | Divide and Conquer, Bit Manipulation |
