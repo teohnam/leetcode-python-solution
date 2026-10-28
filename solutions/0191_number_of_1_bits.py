@@ -12,7 +12,7 @@ class Solution(object):
     def hammingWeight(self, n):
         hamming_weight = 0
 
-        while (n > 0):
+        while n > 0:
             hamming_weight += n % 2
             n //= 2
         
