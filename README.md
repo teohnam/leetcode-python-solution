@@ -21,12 +21,18 @@ and notes on what I learn along the way.
 | 35 | [Search Insert Position](./solutions/0035_search_insert_position.py) | Easy | Array, Binary Search |
 | 49 | [Group Anagrams](./solutions/0049_group_anagrams.py) | Medium | Array, Hash Table, String, Sorting |
 | 53 | [Maximum Subarray](./solutions/0053_maximum_subarray.py) | Medium | Array, Divide and Conquer, Dynamic Programming |
+| 55 | [Jump Game](./solutions/0055_jump_game.py) | Medium | Array, Dynamic Programming, Greedy |
+| 56 | [Merge Intervals](./solutions/0056_merge_intervals.py) | Medium | Array, Sorting |
+| 62 | [Unique Paths](./solutions/0062_unique_paths.py) | Medium | Math, Dynamic Programming, Combinatorics |
 | 67 | [Add Binary](./solutions/0067_add_binary.py) | Easy | Math, String, Bit Manipulation, Simulation |
 | 70 | [Climbing Stairs](./solutions/0070_climbing_stairs.py) | Easy | Math, Dynamic Programming, Memoization |
 | 83 | [Remove Duplicates from Sorted List](./solutions/0083_remove_duplicates_from_sorted_list.py) | Easy | Linked List |
 | 88 | [Merge Sorted Array](./solutions/0088_merge_sorted_array.py) | Easy | Array, Two Pointers, Sorting |
+| 94 | [Binary Tree Inorder Traversal](./solutions/94_binary_tree_inorder_traversal.py) | Easy | Stack, Tree, Depth-First Search, Binary Tree |
+| 102 | [Binary Tree Level Order Traversal](./solutions/0102_binary_tree_level_order_traversal.py) | Medium | Tree, Breadth-First Search, Binary Tree |
 | 104 | [Maximum Depth of Binary Tree](./solutions/0104_maxium_depth_of_binary_tree.py) | Easy | Tree, Depth-First Search, Binary Tree |
 | 118 | [Pascal's Triangle](./solutions/0118_pascals_triangle.py) | Easy | Array, Dynamic Programming |
+| 121 | [Best Time to Buy and Sell Stock](./solutions/0121_best_time_to_buy_and_sell_stock.py) | Easy | Array, Dynamic Programming |
 | 125 | [Valid Palindrome](./solutions/0125_valid_palindrome.py) | Easy | Two Pointers, String |
 | 136 | [Single Number](./solutions/0136_single_number.py) | Easy | Array, Bit Manipulation |
 | 141 | [Linked List Cycle](./solutions/0141_linked_list_cycle.py) | Easy | Hash Table, Linked List, Two Pointers |
