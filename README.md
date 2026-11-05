@@ -9,6 +9,7 @@ and notes on what I learn along the way.
 | # | Problem | Difficulty | Topics |
 |---|---|---|---|
 | 1 | [Two Sum](./solutions/0001_two_sum.py) | Easy | Array |
+| 3 | [Longest Substring Without Repeating Characters](./solutions/0003_longest_substring_without_repeating_characters.py) | Medium | Hash Table, String, Sliding Window |
 | 7 | [Reverse Integer](./solutions/0007_reverse_integer.py) | Medium | Math |
 | 9 | [Palindrome Number](./solutions/0009_palindrome_number.py) | Easy | Math |
 | 13 | [Roman to Integer](./solutions/0013_roman_to_integer.py) | Easy | Hash Table, Math, String |
@@ -18,9 +19,11 @@ and notes on what I learn along the way.
 | 26 | [Remove Duplicates from Sorted Array](./solutions/0026_remove_duplicates_from_sorted_array.py) | Easy | Array, Two Pointers |
 | 27 | [Remove Element](./solutions/0027_remove_element.py) | Easy | Array, Two Pointers |
 | 28 | [Find the Index of the First Occurrence in a String](./solutions/0028_find_the_index_of_the_first_occerrence_in_a_string.py) | Easy | Two Pointers, String Matching |
+| 32 | [Longest Valid Parentheses](./solutions/0032_longest_valid_parentheses.py) | Hard | String, Dynamic Programming, Stack |
 | 34 | [Find First and Last Position of Element in Sorted Array](./solutions/0034_find_first_and_last_position_of_element_in_sorted_array.py) | Medium | Array, Binary Search |
 | 35 | [Search Insert Position](./solutions/0035_search_insert_position.py) | Easy | Array, Binary Search |
 | 38 | [Count and Say](./solutions/0038_count_and_say.py) | Medium | String |
+| 48 | [Rotate Image](./solutions/0048_rotate_image.py) | Medium | Array, Math, Matrix |
 | 49 | [Group Anagrams](./solutions/0049_group_anagrams.py) | Medium | Array, Hash Table, String, Sorting |
 | 53 | [Maximum Subarray](./solutions/0053_maximum_subarray.py) | Medium | Array, Divide and Conquer, Dynamic Programming |
 | 54 | [Spiral Matrix](./solutions/0054_spiral_matrix.py) | Medium | Array, Matrix, Simulation |
@@ -47,11 +50,14 @@ and notes on what I learn along the way.
 | 168 | [Excel Sheet Column Title](./solutions/0168_excel_sheet_column_title.py) | Easy | Math, String |
 | 169 | [Majority Element](./solutions/0169_majority_element.py) | Easy | Array, Hash Table, Divide and Conquer, Sorting, Counting |
 | 171 | [Excel Sheet Column Number](./solutions/0171_excel_sheet_column_number.py) | Easy | Math, String |
+| 179 | [Largest Number](./solutions/0179_largest_number.py) | Medium | Array, String, Greedy, Sorting |
 | 191 | [Number of 1 Bits](./solutions/0191_number_of_1_bits.py) | Easy | Divide and Conquer, Bit Manipulation |
 | 206 | [Reverse Linked List](./solutions/0206_reverse_linked_list.py) | Easy | Linked List, Recursion |
+| 209 | [Minimum Size Subarray Sum](./solutions/0209_minimum_size_subarray_sum.py) | Medium | Array, Binary Search, Sliding Window, Prefix Sum |
 | 225 | [Implement Stack using Queues](./solutions/0225_implement_stack_using_queues.py) | Easy | Stack, Design, Queue |
 | 231 | [Power of Two](./solutions/0231_power_of_two.py) | Easy | Math, Bit Manipulation |
 | 232 | [Implement Queue using Stacks](./solutions/0232_implement_queue_using_stacks.py) | Easy | Stack, Design, Queue |
+| 239 | [Sliding Window Maximum](./solutions/0239_sliding_window_maximum.py) | Hard | Array, Queue, Sliding Window, Monotonic Queue |
 | 303 | [Range Sum Query - Immutable](./solutions/0303_range_sum_query_immutable.py) | Easy | Array, Design, Prefix Sum |
 | 344 | [Reverse String](./solutions/0344_reverse_string.py) | Easy | Two Pointers, String |
 | 387 | [First Unique Character in a String](./solutions/0387_first_unique_character_in_a_string.py) | Easy | Hash Table, String, Counting |
@@ -62,4 +68,5 @@ and notes on what I learn along the way.
 | 697 | [Degree of an Array](./solutions/0697_degree_of_an_array.py) | Easy | Array, Hash Table |
 | 704 | [Binary Search](./solutions/0704_binary_search.py) | Easy | Binary Search |
 | 733 | [Flood Fill](./solutions/0733_flood_fill.py) | Easy | Array, Depth-First Search, Breadth-First Search, Matrix |
+| 912 | [Sort an Array](./solutions/0912_sort_an_array.py) | Medium | Array, Divide and Conquer, Sorting |
 | 1021 | [Remove Outermost Parentheses](./solutions/1021_remove_outermost_parentheses.py) | Easy | String, Stack |

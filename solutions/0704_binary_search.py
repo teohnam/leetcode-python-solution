@@ -1,4 +1,3 @@
-
 """
 Optimized solution: O(log n) time complexity
 
